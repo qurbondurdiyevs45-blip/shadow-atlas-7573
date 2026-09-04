@@ -1,0 +1,15 @@
+{
+  "name": "shadow-atlas-7573",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2363,
+    "createdAt": "2026-09-04T06:21:04.625Z"
+  }
+}
